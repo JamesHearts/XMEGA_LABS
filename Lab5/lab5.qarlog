@@ -1,0 +1,18 @@
+Quartus II Archive log --	C:/Users/overt_000/Desktop/Summer 2016/Lab5/lab5.qarlog
+
+Archive:	C:/Users/overt_000/Desktop/Summer 2016/Lab5/lab5.qar
+Date:		Wed Jul 13 00:53:53 2016
+Quartus II		9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/overt_000/Documents/EEL3744 Labs/Lab3/CPLD/db/lab3.sim.cvwf
+C:/Users/overt_000/Documents/EEL3744 Labs/Lab3/CPLD/lab3.dpf
+C:/Users/overt_000/Documents/EEL3744 Labs/Lab3/CPLD/lab3.qpf
+C:/Users/overt_000/Documents/EEL3744 Labs/Lab3/CPLD/lab3.qsf
+C:/Users/overt_000/Documents/EEL3744 Labs/Lab3/CPLD/lab3.vhd
+C:/Users/overt_000/Documents/EEL3744 Labs/Lab3/CPLD/lab3.vwf
+c:/altera/91sp2/quartus/bin/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
